@@ -2,7 +2,7 @@
 - 👀 I’m interested in anime
 - 🌱 I’m currently learning HTML, PYTHON, C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me dint try
+- 📫 How to reach me dont try
 
 <!---
 JustACunt/JustACunt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
